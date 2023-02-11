@@ -1,5 +1,4 @@
 # Data-Structure-Review
-dastruct sampe mampus
 
 1. Single Linked List
 	- Push Head
