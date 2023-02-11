@@ -1,6 +1,6 @@
 # Data-Structure-Review
 
-# 1. Single Linked List
+**1. Single Linked List**
 	- Push Head
 	- Push Mid
 	- Push Tail
@@ -8,7 +8,7 @@
 	- Pop Mid
 	- Pop Tail
   
-# 2. Double Linked List
+**2. Double Linked List**
 	- Push Head
 	- Push Mid
 	- Push Tail
@@ -16,19 +16,19 @@
 	- Pop Mid
 	- Pop Tail
   
-# 3. Stack
+**3. Stack**
 	- Push Top
 	- Pop Top
   
-# 4. Queue
+**4. Queue**
 	- Push Rear
 	- Pop Front
   
-# 5. Priority Queue
+**5. Priority Queue**
 	- Push Rear
 	- Pop Front
   
-# 6. Hash Function
+**6. Hash Function**
 	- Sum
 	- Mid Square
 	- Division
@@ -37,23 +37,23 @@
 	- Mirror
 	- Sum + Division
   
-# 7. Hashing Linear Probing
+**7. Hashing Linear Probing**
 	- Push
 	- Search
 	- Pop
   
-# 8. Hashing Chaining
+**8. Hashing Chaining**
 	- Push
 	- Search
 	- Pop
   
-# 9. Binary Tree
+**9. Binary Tree**
 	- Push
 	- Pop
 	- Pop All
 	- Print Infix, Prefix, Postfix
   
-# 10. Binary Search Tree
+**10. Binary Search Tree**
 	- Push
 	- Search
 	- Pop
